@@ -13,5 +13,5 @@
             "App\\": "app/",
             "mddarmawan\\DbControl\\": "src/"
         }
-    },
+    }
 }
