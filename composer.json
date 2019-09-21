@@ -7,5 +7,11 @@
             "email": "dandi@zproject.id"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "mddarmawan\\DbControl\\": "src/"
+        }
+    },
 }
