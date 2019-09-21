@@ -1,0 +1,11 @@
+{
+    "name": "mddarmawan/dbcontrol",
+    "description": "\"A simple controller for database command with Artisan\"",
+    "authors": [
+        {
+            "name": "Dandi Darmawan",
+            "email": "dandi@zproject.id"
+        }
+    ],
+    "require": {}
+}
